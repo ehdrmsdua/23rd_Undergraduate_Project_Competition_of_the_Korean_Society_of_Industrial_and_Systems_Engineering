@@ -1,0 +1,2 @@
+# 23rd_Undergraduate_Project_Competition_of_the_Korean_Society_Of_Industrial_And_Systems_Engineering
+2025.01 - 2025.04 / Encouragement Award
