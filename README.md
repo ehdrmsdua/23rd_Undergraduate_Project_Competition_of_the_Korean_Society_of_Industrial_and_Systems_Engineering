@@ -1,5 +1,5 @@
-# Title: The 22th Korean Undergraduate Computer Simulation Competition by the Korean Simulation Society <br/> 
-## Topic: Optimization of Foundry Fab Line Planning <br/>
+# Title: The 23rd Undergraduate Project Competition of the Korean Society of Industrial and Systems Engineering <br/> 
+## Topic: Anomaly Detection in Time-Series Sensor Data from Manufacturing Processes <br/>
 ## Period: 2025.03 - 2024.04 <br/>
 ## Prize: Encouragement Award <br/>
 
