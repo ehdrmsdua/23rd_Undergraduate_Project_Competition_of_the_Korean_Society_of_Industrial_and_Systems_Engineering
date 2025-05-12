@@ -14,7 +14,7 @@ Juhyeon I - Sungkyul Univ_Industrial Management Engineering <br/>
 
 ### Certificate:
 
-# *Award confirmed, waiting for the certificate*
+### *Award confirmed, waiting for the certificate*
 
 ### Summary Preview:<br/>
 6 Pages / 12 Pages<br/>
